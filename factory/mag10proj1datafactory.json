@@ -1,0 +1,9 @@
+{
+	"name": "mag10proj1datafactory",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f374e34a-0e11-4d7c-92ce-378ec0ba2615",
+		"tenantId": "a894e718-0ec8-4dd3-983a-4972dc92144e"
+	}
+}
